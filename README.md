@@ -1,6 +1,6 @@
 # Práctica 3: Uso de la Herramienta JFLAP para Convertir Autómatas Finitos Deterministas a Expresiones Regulares y Extensión de Software para simular Autómatas No Deterministas, AFN con Transiciones Lambda y Minimización de AFD
 
-Este proyecto es una aplicación integral desarrollada en **Python** utilizando el framework **Flet** para la interfaz gráfica. [cite_start]Su objetivo es profundizar en la relación entre los autómatas finitos y las expresiones regulares, además de proporcionar herramientas de simulación y minimización de autómatas[cite: 10].
+Este proyecto es una aplicación integral desarrollada en **Python** utilizando el framework **Flet** para la interfaz gráfica. Su objetivo es profundizar en la relación entre los autómatas finitos y las expresiones regulares, además de proporcionar herramientas de simulación y minimización de autómatas.
 
 ## 👥 Datos del Equipo
 * **Romero Martínez Diego Enrique** | Boleta: 2025630526
@@ -21,7 +21,7 @@ La aplicación se divide en tres módulos principales accessibles mediante pesta
 
 ## 🛠️ Requisitos e Instalación
 
-[cite_start]Para ejecutar este programa en un entorno **Linux**, sigue estos pasos[cite: 131]:
+Para ejecutar este programa en un entorno **Linux**, sigue estos pasos:
 
 1.  **Clonar el repositorio:**
     ```bash
